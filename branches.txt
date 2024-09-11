@@ -1,0 +1,15 @@
+main / master
+release-11-09-2024 / release-1-0-5 / release-64
+develop / dev / development
+
+feature/RQ-325__Add_text_editor
+bugfix/RQ-754__fix_button_padding_on_main_screen
+hotfix/HF__fix_typo_in_word_success_on_profile_page
+
+
+Server levels:
+local  localhost:4000
+development
+staging
+production
+
